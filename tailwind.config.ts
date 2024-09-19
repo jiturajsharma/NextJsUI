@@ -1,4 +1,4 @@
-import { Config } from "tailwindcss";
+import type { Config } from "tailwindcss";
 import colors from "tailwindcss/colors";
 
 // Plugin to add each Tailwind color as a global CSS variable
