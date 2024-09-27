@@ -1,8 +1,10 @@
+import { Meteors } from "@/components/ui/meteors"
 
-function page() {
+ function page() {
   return (
-    <div>Hanji kaise hai ap</div>
+    <div>
+        <h1>Hello</h1>
+    </div>
   )
 }
-
 export default page
